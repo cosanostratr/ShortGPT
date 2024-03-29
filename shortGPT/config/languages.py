@@ -1,4 +1,4 @@
-
+            
 from enum import Enum
 
 class Language(Enum):
@@ -84,7 +84,7 @@ ELEVEN_SUPPORTED_LANGUAGES=[Language.ENGLISH,
     Language.ARABIC,
     Language.GERMAN,
     Language.POLISH,
-    Language.ITALIAN,
+    Language.TURKISH,
     Language.PORTUGUESE]
 
 LANGUAGE_ACRONYM_MAPPING={
